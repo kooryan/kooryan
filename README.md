@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I like machine learning models, particularly in its applications to other things 🌱🔭. 
 <!--
 **kooryan/kooryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
