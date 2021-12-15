@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I like machine learning models, particularly in its applications 🌱🔭. 
+I enjoy learning about different machine learning models, particularly in its applications 🌱🔭. 
+
+Ask me about my favorite classical music pieces 😄 !!
 <!--
 **kooryan/kooryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
